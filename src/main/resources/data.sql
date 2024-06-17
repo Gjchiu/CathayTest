@@ -1,0 +1,3 @@
+INSERT INTO currency (code, currency_name, symbol, rate, description, rate_Float, created_Date, last_Modified_Date) VALUES ('USD', '美元', '&#36;', '66,861.804', 'United States Dollar', 66861.8041, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO currency (code, currency_name, symbol, rate, description, rate_Float, created_Date, last_Modified_Date) VALUES ('GBP', '英鎊', '&pound;', '52,391.104', 'British Pound Sterling', 52391.1044, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+INSERT INTO currency (code, currency_name, symbol, rate, description, rate_Float, created_Date, last_Modified_Date) VALUES ('EUR', '歐元', '&euro;', '62,168.574', 'Euro', 62168.5735, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
